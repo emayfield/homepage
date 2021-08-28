@@ -18,8 +18,8 @@ This is where a statement of focus areas will go.
 
 We are now accepting applications for our 2021 funding cycle. 
 
-Read the [2021 Request for Proposals]({{ site.url }}{{ site.baseurl }}/vacancies)
+Read the [2021 Request for Proposals](rfp)
 
 ## History
 
-You can read about our [Past Grants](research).
+You can read about our [Past Grants](past).

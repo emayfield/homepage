@@ -3,7 +3,7 @@ title: "Cherry Avenue Foundation - 2021 RFP"
 layout: textlay
 excerpt: "Request for Proposals"
 sitemap: false
-permalink: /vacancies
+permalink: /rfp
 ---
 
 # Current Request for Proposals
