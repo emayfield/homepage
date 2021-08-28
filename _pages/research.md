@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Cherry Avenue Foundation - Past Grants"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Past grants."
 sitemap: false
 permalink: /research/
 ---

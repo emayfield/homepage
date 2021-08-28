@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Cherry Avenue Foundation - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Team members"
 sitemap: false
 permalink: /team/
 ---
