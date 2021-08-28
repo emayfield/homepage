@@ -3,7 +3,7 @@ title: "Cherry Avenue Foundation - Past Grants"
 layout: textlay
 excerpt: "Past grants."
 sitemap: false
-permalink: /research/
+permalink: /past/
 ---
 
 # Past Grants
