@@ -72,4 +72,5 @@ permalink: /team/
 
 
 ## Administrative Support
-<a href="mailto:elijah@treeforts.org">Contact Elijah</a> for administrative questions about the Foundation.
+
+Email <em><a href="info@cherryavenuefoundation.org">info@cherryavenuefoundation.org</a></em> for questions about past RFP documents and grants, or administrative questions about the foundation.
