@@ -18,8 +18,4 @@ Grantees should be locally based in, and comprised of members from, the communit
 
 We are now accepting applications for our 2021 funding cycle. 
 
-Read the [2021 Request for Proposals](rfp)
-
-## History
-
-You can read about our [Past Grants](past).
+Read the [Request for Proposals](rfp).

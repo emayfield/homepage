@@ -73,4 +73,4 @@ permalink: /team/
 
 ## Administrative Support
 
-Email <em><a href="info@cherryavenuefoundation.org">info@cherryavenuefoundation.org</a></em> for questions about past RFP documents and grants, or administrative questions about the foundation.
+Email **info@cherryavenuefoundation.org** for questions about past grants or administrative questions about the foundation.

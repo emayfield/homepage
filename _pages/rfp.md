@@ -16,8 +16,6 @@ permalink: /rfp
 
 **Acceptance Notification: October 26, 2021**
 
-**Jump straight to the [application](#Application)**
-
 ## Grant Overview
 
 We are soliciting grant requests in three sizes:
@@ -56,84 +54,80 @@ Grantees should be locally based in, and comprised of members from, the communit
 
 # Application
 
-## Key Information
+To apply for a grant from the Cherry Avenue Foundation, email **apply@cherryavenuefoundation.org**** with your responses to the following questions as one or more attachments.
+
+## Section 1: Key Information
 
 1. Grant Title
 
 2. Type of Support
 
-* Options: General Operating Support, One-Time Project, Long-Term Project
+    _Options: General Operating Support, One-Time Project, Long-Term Project_
 
 3. Grant Size
 
-* Options: Introductory ($10,000), Full ($50,000), Commitment ($500,000 over 3 years)
+    _Options: Introductory ($10,000), Full ($50,000), Commitment ($500,000 over 3 years)_
 
 4. Organization Name
 
-_(If you are serving as a fiscal sponsor, note FISCAL SPONSOR here.)_
+    _If you are serving as a fiscal sponsor, note FISCAL SPONSOR here._
 
 5. Year Founded
 
 6. Context / Background about your organization
 
-7. Summary of Request in 1 Sentence:
+7. Summary of Request in 1 Sentence
 
+## Section 2: Organization Financial Status
 
-## Organization Financial Status
+    Note for Fiscal Sponsors: These answers should only cover the fiscally-sponsored group, not your entire organization.
 
-_Note for Fiscal Sponsors: These answers should only cover the fiscally-sponsored group, not your entire organization_
+1. Total Revenue in $
 
-8. Total Revenue in $:
+2. Total Expenses in $
 
-9. Total Expenses in $:
+3. How has your budget changed in 2021 compared to the prior year?
 
-10. How has your budget changed in 2021 compared to the prior year?
+## Section 3: Fiscal Sponsor
 
-## Fiscal Sponsor
+    Note: If you are not acting as a fiscal sponsor, SKIP this section.
 
-_Note: If you are not acting as a fiscal sponsor, SKIP this section_
+1. Sponsored Group Name
 
-11. Sponsored Group Name:
+2. Sponsored Group Year Founded
 
-12. Sponsored Group Year Founded:
+3. What percentage fee does your organization charge for fiscal sponsorship?
 
-13. What percentage fee does your organization charge for fiscal sponsorship?
+4. What is the structure between you and the sponsored group? How do your staff, volunteers, or mentors work together with the sponsored group’s leadership?
 
-14. What is the structure between you and the sponsored group? How do your staff, volunteers, or mentors work together with the sponsored group’s leadership?
+## Section 4: Your Request
 
+1. What activities will you be funding, who will do that work, and on what timeline?
 
-## Your Request
+2. Who specifically will benefit from the work in this request?
 
-15. What activities will you be funding, who will do that work, and on what timeline?
+    _Use whatever categories are appropriate for your project – race, gender, neighborhood, disability status, income level, sexual orientation, immigration status, etc._
 
-16. Who specifically will benefit from the work in this request?
+3. How will we know your project was successful, and the money was well spent?
 
-_Use whatever categories are appropriate for your project – race, gender, neighborhood, disability status, income level, sexual orientation, immigration status, etc._
+4. What past work from your organization should we know about?
 
-17. How will we know your project was successful, and the money was well spent?
+    _Applicants are welcome to attach documentation or news about relevant prior work_
 
-18. What past work from your organization should we know about?
+## Section 5: Additional Required Documents
 
-_(Applicants are welcome to attach documentation or news about relevant prior work)_
+1. Prior Year Financial Records
 
-## ADDITIONAL REQUIRED DOCUMENTS
+    _If possible, provide audited financial documents as per local state requirements. Otherwise, provide a standard Profit & Loss Statement._
 
-19. Prior Year Financial Records
+2. Fiscal Sponsor Agreement 
 
-_If possible, provide audited financial documents as per local state requirements. Otherwise, provide a standard Profit & Loss Statement_
+    _(only if applicable)_
 
-20. Fiscal Sponsor Agreement 
+3. Budget for This Request
 
-_(only if applicable)_
+    _For general operating support, submit a concise summary of your operating budget._
 
-21. Budget for This Request
+4. List of your key other funding sources
 
-_For general operating support, submit a concise summary of your operating budget._
-
-22. List of your key other funding sources
-
-_List major awards, grants, corporate funding with no intention of return. Also list the total approximate amount of your revenue that comes from smaller donations._
-
-## How to Apply
-
-Email <em><a href="apply@cherryavenuefoundation.org">apply@cherryavenuefoundation.org</a></em> with your responses to the questions above as an attached document.
+    _Include major financial awards, grants, or corporate funding. Also list the total approximate amount received from individual donations._
