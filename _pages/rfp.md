@@ -54,7 +54,7 @@ Grantees should be locally based in, and comprised of members from, the communit
 
 # Application
 
-To apply for a grant from the Cherry Avenue Foundation, email **apply@cherryavenuefoundation.org**** with your responses to the following questions as one or more attachments.
+To apply for a grant from the Cherry Avenue Foundation, email **apply@cherryavenuefoundation.org** with your responses to the following questions as one or more attachments.
 
 ## Section 1: Key Information
 
