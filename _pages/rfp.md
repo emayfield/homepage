@@ -10,11 +10,11 @@ permalink: /rfp
 
 ## Key Dates
 
-**Applications Open: September 14, 2021**
+**Applications Open: September 24, 2021**
 
-**Applications Close: October 12, 2021**
+**Applications Close: October 15, 2021**
 
-**Acceptance Notification: October 26, 2021**
+**Acceptance Notification: October 29, 2021**
 
 ## Grant Overview
 
@@ -38,7 +38,7 @@ Grants can offer any of the following types of support:
 
 Individual grants shall be based on merit, but need may also be a factor. In no event may race or religion be a factor in determining whether an applicant is qualified for a grant. 
 
-No activities attempting to influence legislation, or participating in any political campaign on behalf of, or in opposition to, any candidate for public office.
+We are unable to support activities attempting to influence legislation, or participating in any political campaign on behalf of, or in opposition to, any candidate for public office.
 
 If your request is accepted, a written summary of how your grant was used will be required by no later than January 31, 2022. Upon request, you may need to provide additional documentation, in order for the Foundation to ascertain and confirm expenditure responsibility.
 
