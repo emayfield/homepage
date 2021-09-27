@@ -40,7 +40,7 @@ Individual grants shall be based on merit, but need may also be a factor. In no 
 
 We are unable to support activities attempting to influence legislation, or participating in any political campaign on behalf of, or in opposition to, any candidate for public office.
 
-If your request is accepted, a written summary of how your grant was used will be required by no later than January 31, 2022. Upon request, you may need to provide additional documentation, in order for the Foundation to ascertain and confirm expenditure responsibility.
+If your request is accepted, a written summary of how your grant was used will be required by no later than January 31, 2023. Upon request, you may need to provide additional documentation, in order for the Foundation to ascertain and confirm expenditure responsibility.
 
 Two categories of recipient are eligible:
 
