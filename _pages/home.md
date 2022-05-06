@@ -16,6 +16,4 @@ Grantees should be locally based in, and comprised of members from, the communit
 
 ## Applying for Funding
 
-We are now accepting applications for our 2021 funding cycle. 
-
-Read the [Request for Proposals](rfp).
+We are not yet accepting submissions for our 2022 grant cycle. You can still read the [2021 Request for Proposals](rfp), which has closed.
