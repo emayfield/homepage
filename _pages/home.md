@@ -16,4 +16,6 @@ Grantees should be locally based in, and comprised of members from, the communit
 
 ## Applying for Funding
 
-We are not yet accepting submissions for our 2022 grant cycle. You can still read the [2021 Request for Proposals](rfp), which has closed.
+For 2022 we have adopted a [Rolling Request for Proposals](rfp), which is now open.
+
+You can still read the [2021 Request for Proposals](rfp2021), which has closed.
