@@ -14,7 +14,7 @@ permalink: /rfp
 
 In prior years we have held a single fixed window for applications to open and close, with a single annual notification of acceptance. This year, we are accepting submissions for grants at any time throughout the year. You can expect notification of your submission status within four weeks of submission.
 
-If your work is not time-sensitive, you can expect distribution of funds in late 2022; on a case-by-case basis we may provide grants for accepted submissions immediately upon acceptance.
+If your work is not time-sensitive, you can expect distribution of funds in late 2022. On a case-by-case basis, we may provide grants for accepted submissions immediately upon acceptance.
 
 **2022 Applications Close: October 15, 2022**
 
