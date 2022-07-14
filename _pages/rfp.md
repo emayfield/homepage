@@ -1,5 +1,5 @@
 ---
-title: "Cherry Avenue Foundation - 2021 RFP"
+title: "Cherry Avenue Foundation - Rolling 2022 RFP"
 layout: textlay
 excerpt: "Rolling Request for Proposals"
 sitemap: false
