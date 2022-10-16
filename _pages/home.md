@@ -16,6 +16,6 @@ Grantees should be locally based in, and comprised of members from, the communit
 
 ## Applying for Funding
 
-For 2022 we have adopted a [Rolling Request for Proposals](rfp), which is now open.
+Applications for 2022 are closed. 
 
-You can still read the [2021 Request for Proposals](rfp2021), which has closed.
+You can still read prior years RFPs: [2022](rfp), [2021](rfp2021).

@@ -10,13 +10,13 @@ permalink: /rfp
 
 ## Key Dates
 
-**Applications Are Currently Being Accepted**
+**Applications Are Currently Closed**
 
 In prior years we have held a single fixed window for applications to open and close, with a single annual notification of acceptance. This year, we are accepting submissions for grants at any time throughout the year. You can expect notification of your submission status within four weeks of submission.
 
 If your application is not time-sensitive - for instance, general operating support grants for fiscal 2023 - you can expect distribution of funds in late 2022. On a case-by-case basis, we may provide grants for accepted submissions immediately upon acceptance.
 
-**2022 Applications Close: October 15, 2022**
+**2022 Applications Closed on October 15, 2022**
 
 ## Grant Overview
 
